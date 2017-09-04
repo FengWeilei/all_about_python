@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% block body %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TODOLIST</title>
+</head>
+<body>
+	<header>
+		<h1>ToDoList</h1>
+	</header>
+	<ul>
+		{% for todo in todos %}
+			<li><a href="/details/{{todo.id}}">{{todo.title}}</a>
+		{% endfor %}
+	</ul>
+	</body>
+</html>
+{% endblock %}
