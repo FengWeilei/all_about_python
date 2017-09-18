@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% from "bootstrap/wtf.html" import quick_form %}
+
+{% block content %}
+<div class="container">
+	{{ quick_form(form) }}
+	{{ form.csrf_token }}
+</div>
+{% endblock %}

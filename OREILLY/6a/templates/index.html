@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% from "bootstrap/wtf.html" import quick_form %}
+
+{% block content %}
+<div class="container">
+	{{ quick_form(form) }}
+	{{ form.csrf_token }}
+	{% if name %}
+		<h1>Hello, {{ name }}!</h1>
+		{% if new %}
+			<p>pleased to meet you</p>
+		{% else %}
+			<p>Happy to see you again</p>
+		{% endif %}
+	{% endif %}
+
+</div>
+{% endblock %}
