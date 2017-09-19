@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Flasky{% endblock %}
+
+{% block page_content %}
+<div class="page-header">
+    <p>（这个功能暂时不存在了）</p>
+</div>
+{{ wtf.quick_form(form) }}
+{% endblock %}
