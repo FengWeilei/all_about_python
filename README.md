@@ -6,6 +6,9 @@
 <li>todolist 学习Django时写的ToDoList应用，add页面添加需要做的事，home页面显示要做的事情。<br>有了Flask、mysql、模板渲染和那些计算机基础知识，感觉学习Django不怎么费力气了。
 <li>CS50学习CS 50系列课程留下的各种代码。还有学习爬虫的几行代码。
 <li><a href="http://blog.csdn.net/sinat_36651044/article/">CSDN博客</a>上有学习时留下的笔记。
-<li>花了将近两个月，抄完了Data Structure and Algorithms in Python 前两章。做完了第一章的课后题。
-<li>最近一个星期，看完了Core Python Applications Programming 第一章，做了29道课后题。
-<li>接下来看第二章，能找到工作，就好好在工作中学习。不然随便干点儿啥，也得找份工作。
+<li>花了将近两个月，抄完了Data Structure and Algorithms in Python 前两章，学习了更多Python的基础知识。顺便做了课后题。
+<li>然后Core Python文件夹，看完了Core Python Applications Programming 前几章，做了课后题。
+<li>最近在找工作，没有遇到一家Python Web 相关。正在继续找。
+<li>找到了廖雪峰老师的Python教程，良心教程，看了4天，到实战部分了。看完一定要小额支持一下作者。
+<li>lxf文件夹是学习廖雪峰老师教程中各种代码及课上练习题的代码。大概两三天能完成最后的实战部分，写出完整的网站。
+<li>最后，希望早点儿找到工作啊。
